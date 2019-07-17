@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"> 
+ <channel> 
+  <title>TechCrunch</title> 
+  <link>
+   https://techcrunch.com
+  </link> 
+  <description>
+   TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.
+  </description> 
+  <lastBuildDate>
+   Tue, 16 May 2017 08:01:01 +0000
+  </lastBuildDate> 
+  <language>
+   en
+  </language> 
+  <sy:updatePeriod>
+   hourly
+  </sy:updatePeriod> 
+  <sy:updateFrequency>
+   1
+  </sy:updateFrequency> 
+  <generator>
+   http://wordpress.com/
+  </generator> 
+  <cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" /> 
+  <image>
+   <link>
+    http://www.techcrunch.com
+   </link>
+   <url>
+    http://www.techcrunch.com/wp-content/themes/techcrunchmu/images/techcrunch_logo.png
+   </url>
+   <title>TechCrunch</title>
+  </image> 
+  <atom:link rel="search" type="application/opensearchdescription+xml" href="https://techcrunch.com/osd.xml" title="TechCrunch" /> 
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Techcrunch" />
+  <feedburner:info uri="techcrunch" />
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" />
+  <feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">
+   Subscribe with My Yahoo!
+  </feedburner:feedFlare>
+  <feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.newsgator.com/images/ngsub1.gif">
+   Subscribe with NewsGator
+  </feedburner:feedFlare>
+  <feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">
+   Subscribe with My AOL
+  </feedburner:feedFlare>
+  <feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Techcrunch" src="http://www.bloglines.com/images/sub_modern11.gif">
+   Subscribe with Bloglines
+  </feedburner:feedFlare>
+  <feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="//www.netvibes.com/img/add2netvibes.gif">
+   Subscribe with Netvibes
+  </feedburner:feedFlare>
+  <feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://buttons.googlesyndication.com/fusion/add.gif">
+   Subscribe with Google
+  </feedburner:feedFlare>
+  <feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">
+   Subscribe with Pageflakes
+  </feedburner:feedFlare>
+  <feedburner:browserFriendly>
+   This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site.
+  </feedburner:browserFriendly>
+  <item> 
+   <title>Notion Capital outs new $80M ‘growth equity’ fund to invest in enterprise Saas and cloud portfolio</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/1s3lTs-zKdQ/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/16/notion-capital-outs-new-80m-growth-equity-fund-to-invest-in-enterprise-saas-and-cloud-portfolio/#respond
+   </comments> 
+   <pubDate>
+    Tue, 16 May 2017 08:00:54 +0000
+   </pubDate> 
+   <dc:creator>
+    Steve O&amp;#039;Hear
+   </dc:creator> 
+   <category>
+    Europe
+   </category> 
+   <category>
+    Startups
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Notion Capital
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1489929
+   </guid> 
+   <description>
+    &lt;img width="680" height="583" src="https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Notion Capital, the London-based VC focussed on enterprise SaaS and cloud startups, is announcing a number of updates today, including a new later-stage follow-on fund for existing portfolio companies. &lt;a href="https://techcrunch.com/2017/05/16/notion-capital-outs-new-80m-growth-equity-fund-to-invest-in-enterprise-saas-and-cloud-portfolio/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1s3lTs-zKdQ:jeDo6MxNfFk:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1s3lTs-zKdQ:jeDo6MxNfFk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1s3lTs-zKdQ:jeDo6MxNfFk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1s3lTs-zKdQ:jeDo6MxNfFk:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1s3lTs-zKdQ:jeDo6MxNfFk:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1s3lTs-zKdQ:jeDo6MxNfFk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1s3lTs-zKdQ:jeDo6MxNfFk:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1s3lTs-zKdQ:jeDo6MxNfFk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/1s3lTs-zKdQ" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/16/notion-capital-outs-new-80m-growth-equity-fund-to-invest-in-enterprise-saas-and-cloud-portfolio/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Notion%20Capital%20outs%20new%20%2480M%20%26%238216%3Bgrowth%20equity%26%238217%3B%20fund%20to%20invest%20in%20enterprise%20Saas%20and%20cloud%26nbsp%3Bportfolio
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/stephen-chandler-notion-capital.jpg" medium="image"> 
+    <media:title type="html">
+     Stephen Chandler - Notion Capital
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/95b8a6df6d265cf57a4d89ee4856ea98?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     Steve O'Hear
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/16/notion-capital-outs-new-80m-growth-equity-fund-to-invest-in-enterprise-saas-and-cloud-portfolio/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>The HTC U11’s most compelling feature, Edge Sense, is pretty silly</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/hdf_7UGXHno/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/16/the-htc-u11s-most-compelling-feature-edge-sense-is-pretty-silly/#respond
+   </comments> 
+   <pubDate>
+    Tue, 16 May 2017 07:01:58 +0000
+   </pubDate> 
+   <dc:creator>
+    Brian Heater
+   </dc:creator> 
+   <category>
+    Hardware
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    edge sense
+   </category> 
+   <category>
+    HTC
+   </category> 
+   <category>
+    smartphones
+   </category> 
+   <category>
+    u11
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1489350
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;You can&amp;#8217;t really blame HTC for embracing a gimmick. A rough couple of years for the smartphone maker warrants some experimentation to help set its devices apart from myriad other Android manufacturers. Edge Sense, sadly, however, is not going to be that technology. &lt;a href="https://techcrunch.com/2017/05/16/the-htc-u11s-most-compelling-feature-edge-sense-is-pretty-silly/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hdf_7UGXHno:EShMBDSDcuQ:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hdf_7UGXHno:EShMBDSDcuQ:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hdf_7UGXHno:EShMBDSDcuQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hdf_7UGXHno:EShMBDSDcuQ:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=hdf_7UGXHno:EShMBDSDcuQ:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hdf_7UGXHno:EShMBDSDcuQ:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=hdf_7UGXHno:EShMBDSDcuQ:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=hdf_7UGXHno:EShMBDSDcuQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/hdf_7UGXHno" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/16/the-htc-u11s-most-compelling-feature-edge-sense-is-pretty-silly/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     The%20HTC%20U11%E2%80%99s%20most%20compelling%20feature%2C%20Edge%20Sense%2C%20is%20pretty%26nbsp%3Bsilly
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0229.jpg" medium="image"> 
+    <media:title type="html">
+     DSC_0229
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/69b6dc548d05dedd0132f12e075bf7de?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     bheater
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0242.jpg" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0250.jpg" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0235.jpg" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/dsc_0254.jpg" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/16/the-htc-u11s-most-compelling-feature-edge-sense-is-pretty-silly/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Talent.io grabs $8.8 million for its recruitment platform</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/IGqxVOlsiw4/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/talentio-grabs-88-million-for-its-recruitment-platform/#respond
+   </comments> 
+   <pubDate>
+    Tue, 16 May 2017 05:01:01 +0000
+   </pubDate> 
+   <dc:creator>
+    Romain Dillet
+   </dc:creator> 
+   <category>
+    Europe
+   </category> 
+   <category>
+    Startups
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    France Newsletter
+   </category> 
+   <category>
+    recruitment
+   </category> 
+   <category>
+    Talent.io
+   </category> 
+   <guid isPermaLink="false">
+    http://tctechcrunch2011.wordpress.com/?p=1490135
+   </guid> 
+   <description>
+    &lt;img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg 1024w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;French startup Talent.io is turning headhunting into a marketplace by connecting promising engineers with tech companies. The company just raised $8.8 million (€8 million) from existing investors Alven Capital and Ventech. While Talent.io started with Paris, the company is now operating in other major European cities, such as Berlin and London. The startup acquired Webcrowd and Go Digital&amp;hellip; &lt;a href="https://techcrunch.com/2017/05/15/talentio-grabs-88-million-for-its-recruitment-platform/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IGqxVOlsiw4:rqWYLTmK5Q4:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IGqxVOlsiw4:rqWYLTmK5Q4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IGqxVOlsiw4:rqWYLTmK5Q4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IGqxVOlsiw4:rqWYLTmK5Q4:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=IGqxVOlsiw4:rqWYLTmK5Q4:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IGqxVOlsiw4:rqWYLTmK5Q4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=IGqxVOlsiw4:rqWYLTmK5Q4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IGqxVOlsiw4:rqWYLTmK5Q4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/IGqxVOlsiw4" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/talentio-grabs-88-million-for-its-recruitment-platform/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Talent.io%20grabs%20%248.8%20million%20for%20its%20recruitment%26nbsp%3Bplatform
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2014/08/old-school-resume.jpg" medium="image"> 
+    <media:title type="html">
+     old school resume
+    </media:title> 
+   </media:content> 
+   <media:content url="http://2.gravatar.com/avatar/2e71de62bf8a99d74a58f1546494fe82?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     romaindillet
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/talentio-grabs-88-million-for-its-recruitment-platform/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>DocuSign confirms customer emails were stolen and used in phishing campaign</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/RSaqZgFvrmY/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/docusign-confirms-customer-emails-were-stolen-and-used-in-phishing-campaign/#respond
+   </comments> 
+   <pubDate>
+    Tue, 16 May 2017 04:50:37 +0000
+   </pubDate> 
+   <dc:creator>
+    Catherine Shu
+   </dc:creator> 
+   <category>
+    Security
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    DocuSign
+   </category> 
+   <category>
+    malware
+   </category> 
+   <category>
+    phishing
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490876
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;DocuSign, the owner of eSignature, one of the most popular digital signature services, said today that a database of customer emails was breached and used in a phishing campaign that began last week. &lt;a href="https://techcrunch.com/2017/05/15/docusign-confirms-customer-emails-were-stolen-and-used-in-phishing-campaign/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSaqZgFvrmY:uzuW3OSWZSY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSaqZgFvrmY:uzuW3OSWZSY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSaqZgFvrmY:uzuW3OSWZSY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSaqZgFvrmY:uzuW3OSWZSY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=RSaqZgFvrmY:uzuW3OSWZSY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSaqZgFvrmY:uzuW3OSWZSY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=RSaqZgFvrmY:uzuW3OSWZSY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSaqZgFvrmY:uzuW3OSWZSY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/RSaqZgFvrmY" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/docusign-confirms-customer-emails-were-stolen-and-used-in-phishing-campaign/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     DocuSign%20confirms%20customer%20emails%20were%20stolen%20and%20used%20in%20phishing%26nbsp%3Bcampaign
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-691111159.jpg" medium="image"> 
+    <media:title type="html">
+     Woman signing a check
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/f80a0e0a6502b4ec4f97f5b3bbd6ac25?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     catherineshu
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/docusign-confirms-customer-emails-were-stolen-and-used-in-phishing-campaign/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Crunch Report | Lyft and Waymo Partner Up on Self-Driving Cars</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/-cSFbSu_XpU/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/crunch-report-lyft-and-waymo-partner-up-on-self-driving-cars/#respond
+   </comments> 
+   <pubDate>
+    Tue, 16 May 2017 03:30:52 +0000
+   </pubDate> 
+   <dc:creator>
+    Khaled &amp;quot;Tito&amp;quot; Hamze
+   </dc:creator> 
+   <category>
+    TC
+   </category> 
+   <category>
+    autonomous
+   </category> 
+   <category>
+    california
+   </category> 
+   <category>
+    crunch
+   </category> 
+   <category>
+    crunch report
+   </category> 
+   <category>
+    daily
+   </category> 
+   <category>
+    Disrupt
+   </category> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Governor
+   </category> 
+   <category>
+    hackathon
+   </category> 
+   <category>
+    hamze
+   </category> 
+   <category>
+    Hands On
+   </category> 
+   <category>
+    Lattice
+   </category> 
+   <category>
+    Lyft
+   </category> 
+   <category>
+    News
+   </category> 
+   <category>
+    recap
+   </category> 
+   <category>
+    report
+   </category> 
+   <category>
+    review
+   </category> 
+   <category>
+    reVIVE
+   </category> 
+   <category>
+    sam altman
+   </category> 
+   <category>
+    self-driving
+   </category> 
+   <category>
+    Silicon Valley
+   </category> 
+   <category>
+    Tech
+   </category> 
+   <category>
+    TechCrunch
+   </category> 
+   <category>
+    technology
+   </category> 
+   <category>
+    tito
+   </category> 
+   <category>
+    tito hamze
+   </category> 
+   <category>
+    waymo
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490671
+   </guid> 
+   <description>
+    It&amp;#8217;s the first day of TechCrunch Disrupt New York. Lyft and Waymo partner up on self-driving car technology, Sam Altman could potentially be running for governor of California and Apple acquires AI company Lattice Data. All this on Crunch Report. &lt;a href="https://techcrunch.com/2017/05/15/crunch-report-lyft-and-waymo-partner-up-on-self-driving-cars/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-cSFbSu_XpU:RuvtO8hMKdA:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-cSFbSu_XpU:RuvtO8hMKdA:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-cSFbSu_XpU:RuvtO8hMKdA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-cSFbSu_XpU:RuvtO8hMKdA:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=-cSFbSu_XpU:RuvtO8hMKdA:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-cSFbSu_XpU:RuvtO8hMKdA:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=-cSFbSu_XpU:RuvtO8hMKdA:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=-cSFbSu_XpU:RuvtO8hMKdA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/-cSFbSu_XpU" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/crunch-report-lyft-and-waymo-partner-up-on-self-driving-cars/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:content url="http://img.vidible.tv/prod/2017-05/15/591a1511f3bdc95a680de980/591a162e58415c1314d85f0d_o_U_v1.jpg?w=1279&amp;h=727" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Crunch%20Report%20%7C%20Lyft%20and%20Waymo%20Partner%20Up%20on%20Self-Driving%26nbsp%3BCars
+    </media:title>
+   </media:content> 
+   <media:content url="http://2.gravatar.com/avatar/ebbd42535d88ec24fe14734e8abedc20?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     titohamze
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/crunch-report-lyft-and-waymo-partner-up-on-self-driving-cars/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>SpaceX successfully launches its heaviest geostationary orbital payload yet</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/uI3eCYXoqGY/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/spacex-successfully-launches-its-heaviest-geostationary-orbital-payload-yet/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 23:37:31 +0000
+   </pubDate> 
+   <dc:creator>
+    Darrell Etherington
+   </dc:creator> 
+   <category>
+    Space
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Transportation
+   </category> 
+   <category>
+    falcon
+   </category> 
+   <category>
+    falcon heavy
+   </category> 
+   <category>
+    hyperloop
+   </category> 
+   <category>
+    inmarsat
+   </category> 
+   <category>
+    space tourism
+   </category> 
+   <category>
+    spacecraft
+   </category> 
+   <category>
+    spaceflight
+   </category> 
+   <category>
+    SpaceX
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490790
+   </guid> 
+   <description>
+    &lt;img width="680" height="376" src="https://tctechcrunch2011.files.wordpress.com/2017/05/spacex-launch-may-15-17-compressor.gif?w=680" class="attachment-large size-large wp-post-image" alt="" /&gt;&amp;nbsp;SpaceX launched a Falcon 9 rocket carrying a payload from communications satellite operate Inmarsat, the fourth in a constellation created to provide high-bandwidth broadspeed Internet globally. The payload is the largest ever launched on a Falcon 9, which is why the mission parameters didn&amp;#8217;t call for an attempt to recover the first stage of the rocket. The launch was originally slated to&amp;hellip; &lt;a href="https://techcrunch.com/2017/05/15/spacex-successfully-launches-its-heaviest-geostationary-orbital-payload-yet/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=uI3eCYXoqGY:yDznXBuDxVQ:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=uI3eCYXoqGY:yDznXBuDxVQ:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=uI3eCYXoqGY:yDznXBuDxVQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=uI3eCYXoqGY:yDznXBuDxVQ:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=uI3eCYXoqGY:yDznXBuDxVQ:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=uI3eCYXoqGY:yDznXBuDxVQ:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=uI3eCYXoqGY:yDznXBuDxVQ:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=uI3eCYXoqGY:yDznXBuDxVQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/uI3eCYXoqGY" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/spacex-successfully-launches-its-heaviest-geostationary-orbital-payload-yet/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/spacex-launch-may-15-17-compressor.gif?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/spacex-launch-may-15-17-compressor.gif" type="image/gif" medium="image">
+    <media:title type="html">
+     SpaceX%20successfully%20launches%20its%20heaviest%20geostationary%20orbital%20payload%26nbsp%3Byet
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/spacex-launch-may-15-17-compressor.gif" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/spacex-launch-may-15-17-compressor.gif" medium="image"> 
+    <media:title type="html">
+     spacex-launch-may-15-17-compressor
+    </media:title> 
+   </media:content> 
+   <media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     etherin
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/spacex-successfully-launches-its-heaviest-geostationary-orbital-payload-yet/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Savari works to bring 5G to connected cars</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/zFlfMFTJDCI/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/savari-works-to-bring-5g-to-connected-cars/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 23:07:12 +0000
+   </pubDate> 
+   <dc:creator>
+    Kristen Hall-Geisler
+   </dc:creator> 
+   <category>
+    TC
+   </category> 
+   <category>
+    5g
+   </category> 
+   <category>
+    Audi
+   </category> 
+   <category>
+    Bosch
+   </category> 
+   <category>
+    connected car
+   </category> 
+   <category>
+    Daimler
+   </category> 
+   <category>
+    V2X
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490833
+   </guid> 
+   <description>
+    &lt;img width="680" height="373" src="https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg?w=680" class="attachment-large size-large wp-post-image" alt="Autonomous Vehicle" srcset="https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg 1280w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;In these early days of smart cities and connected cars, Savari has emerged as a V2X (that&amp;#8217;s vehicle-to-everything) innovator. Now it&amp;#8217;s joined the 5G Automotive Association to bring cellular communications to connected cars. This technology doesn&amp;#8217;t merely provide faster cell service on the morning commute. Cellular-V2X (C-V2X) is a communications system for connected cars to&amp;hellip; &lt;a href="https://techcrunch.com/2017/05/15/savari-works-to-bring-5g-to-connected-cars/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=zFlfMFTJDCI:cpTLqQhhdWU:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=zFlfMFTJDCI:cpTLqQhhdWU:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=zFlfMFTJDCI:cpTLqQhhdWU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=zFlfMFTJDCI:cpTLqQhhdWU:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=zFlfMFTJDCI:cpTLqQhhdWU:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=zFlfMFTJDCI:cpTLqQhhdWU:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=zFlfMFTJDCI:cpTLqQhhdWU:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=zFlfMFTJDCI:cpTLqQhhdWU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/zFlfMFTJDCI" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/savari-works-to-bring-5g-to-connected-cars/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Savari%20works%20to%20bring%205G%20to%20connected%26nbsp%3Bcars
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/04/11.jpg" medium="image"> 
+    <media:title type="html">
+     Autonomous Vehicle
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/6f03bde7681a5b225538e6a6807ee96e?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     hallgeisler
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/savari-works-to-bring-5g-to-connected-cars/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>RecordGram thinks your phone is the new recording studio</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/FS_d2akIOdg/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/recordgram-thinks-your-phone-is-the-new-recording-studio/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 22:06:18 +0000
+   </pubDate> 
+   <dc:creator>
+    Lora Kolodny
+   </dc:creator> 
+   <category>
+    Apps
+   </category> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Entertainment
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    DJ Blackout
+   </category> 
+   <category>
+    Erik Mendelson
+   </category> 
+   <category>
+    hip hop
+   </category> 
+   <category>
+    mobile app
+   </category> 
+   <category>
+    music tech
+   </category> 
+   <category>
+    RecordGram
+   </category> 
+   <category>
+    Recording
+   </category> 
+   <category>
+    Shawn Mims
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490621
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;If RecordGram has its way, top record producers will all turn to their app, a kind of mobile recording studio, to find the next Justin Bieber or Nicki Minaj. And aspiring artists will all find beats, create songs and get signed to their first label through RecordGram. The company was a &amp;#8220;wildcard&amp;#8221; contender at TechCrunch&amp;#8217;s Startup Battlefield in New York today. &lt;a href="https://techcrunch.com/2017/05/15/recordgram-thinks-your-phone-is-the-new-recording-studio/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FS_d2akIOdg:sllgQPyTg_8:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FS_d2akIOdg:sllgQPyTg_8:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FS_d2akIOdg:sllgQPyTg_8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FS_d2akIOdg:sllgQPyTg_8:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=FS_d2akIOdg:sllgQPyTg_8:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FS_d2akIOdg:sllgQPyTg_8:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=FS_d2akIOdg:sllgQPyTg_8:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FS_d2akIOdg:sllgQPyTg_8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/FS_d2akIOdg" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/recordgram-thinks-your-phone-is-the-new-recording-studio/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     RecordGram%20thinks%20your%20phone%20is%20the%20new%20recording%26nbsp%3Bstudio
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg" medium="image"> 
+    <media:title type="html">
+     RecordGram presents at Startup Battlefield at TechCrunch Disrupt NY 2017
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/6669b82c456f152e55fac86f56e5c248?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     lorakolodnytc
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8915.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8917.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8922.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8919.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8907.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8909.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8912.jpg?w=150" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/recordgram-thinks-your-phone-is-the-new-recording-studio/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>UploadVR sued over ‘rampant’ sexual behavior in the workplace and wrongful termination</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/wUpuJmnlyCs/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/uploadvr-sued-over-rampant-sexual-behavior-in-the-workplace-and-wrongful-termination/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 22:04:00 +0000
+   </pubDate> 
+   <dc:creator>
+    Lucas Matney
+   </dc:creator> 
+   <category>
+    Startups
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    UploadVR
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490412
+   </guid> 
+   <description>
+    &lt;img width="680" height="354" src="https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg 1200w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;UploadVR&nbsp;is being sued by the company&amp;#8217;s former Director of Digital and Social Media for sexual harassment, sex and gender discrimination and wrongful termination, TechCrunch has learned. The virtual reality startup, with offices in San Francisco and Los Angeles, consists of&nbsp;co-working spaces, training courses and a media publication, and has received funding from General&amp;#8230; &lt;a href="https://techcrunch.com/2017/05/15/uploadvr-sued-over-rampant-sexual-behavior-in-the-workplace-and-wrongful-termination/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wUpuJmnlyCs:YC3UGLXZneY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wUpuJmnlyCs:YC3UGLXZneY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wUpuJmnlyCs:YC3UGLXZneY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wUpuJmnlyCs:YC3UGLXZneY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=wUpuJmnlyCs:YC3UGLXZneY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wUpuJmnlyCs:YC3UGLXZneY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=wUpuJmnlyCs:YC3UGLXZneY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=wUpuJmnlyCs:YC3UGLXZneY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/wUpuJmnlyCs" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/uploadvr-sued-over-rampant-sexual-behavior-in-the-workplace-and-wrongful-termination/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     UploadVR%20sued%20over%20%26%238216%3Brampant%26%238217%3B%20sexual%20behavior%20in%20the%20workplace%20and%20wrongful%26nbsp%3Btermination
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/upload_office.jpeg" medium="image"> 
+    <media:title type="html">
+     Upload_office
+    </media:title> 
+   </media:content> 
+   <media:content url="http://1.gravatar.com/avatar/ac0471089769c31246f411dc339104f8?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     lucasmatney2015
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/uploadvr-sued-over-rampant-sexual-behavior-in-the-workplace-and-wrongful-termination/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Hackers claim to have looted some treasure from Disney’s ‘Magic Kingdom’</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/qRI2gXhlyvw/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/hackers-claim-to-have-looted-some-treasure-from-disneys-magic-kingdom/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:58:26 +0000
+   </pubDate> 
+   <dc:creator>
+    Jonathan Shieber
+   </dc:creator> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Bob Iger
+   </category> 
+   <category>
+    business
+   </category> 
+   <category>
+    Iger
+   </category> 
+   <category>
+    the walt disney company
+   </category> 
+   <category>
+    walt disney
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490753
+   </guid> 
+   <description>
+    &lt;img width="680" height="428" src="https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg 1000w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;At a town hall meeting in New York earlier today, Disney chief executive Bob Iger said hackers are claiming to have stolen an undisclosed new film from Disney&amp;#8217;s upcoming slate, according to a report in The Hollywood Reporter. &lt;a href="https://techcrunch.com/2017/05/15/hackers-claim-to-have-looted-some-treasure-from-disneys-magic-kingdom/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qRI2gXhlyvw:RcERoNRhFCc:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qRI2gXhlyvw:RcERoNRhFCc:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qRI2gXhlyvw:RcERoNRhFCc:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qRI2gXhlyvw:RcERoNRhFCc:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=qRI2gXhlyvw:RcERoNRhFCc:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qRI2gXhlyvw:RcERoNRhFCc:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=qRI2gXhlyvw:RcERoNRhFCc:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qRI2gXhlyvw:RcERoNRhFCc:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/qRI2gXhlyvw" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/hackers-claim-to-have-looted-some-treasure-from-disneys-magic-kingdom/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Hackers%20claim%20to%20have%20looted%20some%20treasure%20from%20Disney%26%238217%3Bs%20%26%238216%3BMagic%26nbsp%3BKingdom%26%238217%3B
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/04/shutterstock_313425050.jpg" medium="image"> 
+    <media:title type="html">
+     shutterstock disney
+    </media:title> 
+   </media:content> 
+   <media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     shieberj
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2015/11/yoda-disney-infinity.jpg" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/hackers-claim-to-have-looted-some-treasure-from-disneys-magic-kingdom/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>DeepMind NHS health data deal had ‘no lawful basis’</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/lDDtSSAS8qY/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/deepmind-nhs-health-data-deal-had-no-lawful-basis/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:54:21 +0000
+   </pubDate> 
+   <dc:creator>
+    Natasha Lomas
+   </dc:creator> 
+   <category>
+    Apps
+   </category> 
+   <category>
+    Europe
+   </category> 
+   <category>
+    Health
+   </category> 
+   <category>
+    Privacy
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    data governance
+   </category> 
+   <category>
+    DeepMind
+   </category> 
+   <category>
+    Google
+   </category> 
+   <category>
+    National Health Service
+   </category> 
+   <category>
+    NDG
+   </category> 
+   <category>
+    Streams app
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490477
+   </guid> 
+   <description>
+    &lt;img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;DeepMind&amp;#8217;s inaugural data-sharing deal with the UK&amp;#8217;s National Health Service looks to be coming firmly unstuck. &lt;a href="https://techcrunch.com/2017/05/15/deepmind-nhs-health-data-deal-had-no-lawful-basis/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=lDDtSSAS8qY:qGmOrrWeD-s:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=lDDtSSAS8qY:qGmOrrWeD-s:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=lDDtSSAS8qY:qGmOrrWeD-s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=lDDtSSAS8qY:qGmOrrWeD-s:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=lDDtSSAS8qY:qGmOrrWeD-s:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=lDDtSSAS8qY:qGmOrrWeD-s:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=lDDtSSAS8qY:qGmOrrWeD-s:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=lDDtSSAS8qY:qGmOrrWeD-s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/lDDtSSAS8qY" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/deepmind-nhs-health-data-deal-had-no-lawful-basis/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     DeepMind%20NHS%20health%20data%20deal%20had%20%26%238216%3Bno%20lawful%26nbsp%3Bbasis%26%238217%3B
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/05/p1040482.jpg" medium="image"> 
+    <media:title type="html">
+     DeepMind Streams
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     nelomas
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/deepmind-nhs-health-data-deal-had-no-lawful-basis/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Watch SpaceX’s Inmarsat-5 Flight 4 satellite launch live right here</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/Ode58ZqLG1U/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/watch-spacexs-inmarsat-5-flight-4-satellite-launch-live-right-here/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:49:09 +0000
+   </pubDate> 
+   <dc:creator>
+    Darrell Etherington
+   </dc:creator> 
+   <category>
+    Space
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Transportation
+   </category> 
+   <category>
+    inmarsat
+   </category> 
+   <category>
+    SpaceX
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490693
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;SpaceX is setting up to launch Inmarsat-5 Flight 4, a mission that will put a communications satellite into geostationary orbit for commercial satellite operator Inmarsat. SpaceX&amp;#8217;s window lasts 49 minutes, and opens at 7:21 PM ET (4:21 PM PT) on Tuesday, with another window opening at the same time tomorrow in case of any issues resulting in a scrub. The launch payload is the fourth&amp;#8230; &lt;a href="https://techcrunch.com/2017/05/15/watch-spacexs-inmarsat-5-flight-4-satellite-launch-live-right-here/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Ode58ZqLG1U:d4yDIKX-mYI:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Ode58ZqLG1U:d4yDIKX-mYI:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Ode58ZqLG1U:d4yDIKX-mYI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Ode58ZqLG1U:d4yDIKX-mYI:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Ode58ZqLG1U:d4yDIKX-mYI:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Ode58ZqLG1U:d4yDIKX-mYI:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Ode58ZqLG1U:d4yDIKX-mYI:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Ode58ZqLG1U:d4yDIKX-mYI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Ode58ZqLG1U" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/watch-spacexs-inmarsat-5-flight-4-satellite-launch-live-right-here/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/c_4ogwcvoaav4uk-jpg-large.jpeg" medium="image"> 
+    <media:title type="html">
+     C_4OgwCVoAAv4UK.jpg-large
+    </media:title> 
+   </media:content> 
+   <media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     etherin
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/watch-spacexs-inmarsat-5-flight-4-satellite-launch-live-right-here/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>CreditHero wants to help fix credit scores for those afraid to even look</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/BN9vIybreNM/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/credithero-wants-to-help-fix-credit-scores-for-those-afraid-to-even-look/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:45:44 +0000
+   </pubDate> 
+   <dc:creator>
+    Matthew Lynley
+   </dc:creator> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Events
+   </category> 
+   <category>
+    Finance
+   </category> 
+   <category>
+    Mobile
+   </category> 
+   <category>
+    Startups
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Battlefield
+   </category> 
+   <category>
+    chatbots
+   </category> 
+   <category>
+    conversational user interfaces
+   </category> 
+   <category>
+    CreditHero
+   </category> 
+   <category>
+    disrupt ny
+   </category> 
+   <category>
+    fintech
+   </category> 
+   <category>
+    techcrunch disrupt ny
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1489355
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;With apps and services for investing and checking credit scores, it might seem like financial services are finally getting more mainstream. But people still need to have decent credit to get to the point where they&amp;#8217;ll use those services. That&amp;#8217;s why Nicole Sanchez and her co-founders started CreditHero, a service to help people understand their credit score &amp;#8212; and how to&amp;hellip; &lt;a href="https://techcrunch.com/2017/05/15/credithero-wants-to-help-fix-credit-scores-for-those-afraid-to-even-look/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BN9vIybreNM:Fu2XqVHCpY4:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BN9vIybreNM:Fu2XqVHCpY4:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BN9vIybreNM:Fu2XqVHCpY4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BN9vIybreNM:Fu2XqVHCpY4:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=BN9vIybreNM:Fu2XqVHCpY4:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BN9vIybreNM:Fu2XqVHCpY4:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=BN9vIybreNM:Fu2XqVHCpY4:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BN9vIybreNM:Fu2XqVHCpY4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/BN9vIybreNM" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/credithero-wants-to-help-fix-credit-scores-for-those-afraid-to-even-look/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     CreditHero%20wants%20to%20help%20fix%20credit%20scores%20for%20those%20afraid%20to%20even%26nbsp%3Blook
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1308.jpg" medium="image"> 
+    <media:title type="html">
+     CreditHero presents at Startup Battlefield at TechCrunch Disrupt NY 2017
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/fb80ccc18c4fecace4405aebe8fbedbc?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     matthewlynley
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1310.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/img_1231.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/credithero_image_for_techcrunch_wide.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-credithero-8359.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1309.jpg?w=150" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/credithero-wants-to-help-fix-credit-scores-for-those-afraid-to-even-look/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>WannaCry ransomware is still spreading fast, but ‘kill switch’ defenses hold for now</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/3pUrrOGpBCI/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/wannacry-ransomware-is-still-spreading-fast-but-kill-switch-defenses-hold-for-now/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:45:02 +0000
+   </pubDate> 
+   <dc:creator>
+    Devin Coldewey
+   </dc:creator> 
+   <category>
+    Hack
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    ransomware
+   </category> 
+   <category>
+    wannacry
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490728
+   </guid> 
+   <description>
+    &lt;img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;The WannaCry ransomware sweeping the world hasn&amp;#8217;t stopped its progress, but quick action by cybersecurity professionals has at least partially limited the damage it does as it goes. &lt;a href="https://techcrunch.com/2017/05/15/wannacry-ransomware-is-still-spreading-fast-but-kill-switch-defenses-hold-for-now/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3pUrrOGpBCI:wVyrXlreth0:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3pUrrOGpBCI:wVyrXlreth0:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3pUrrOGpBCI:wVyrXlreth0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3pUrrOGpBCI:wVyrXlreth0:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=3pUrrOGpBCI:wVyrXlreth0:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3pUrrOGpBCI:wVyrXlreth0:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=3pUrrOGpBCI:wVyrXlreth0:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3pUrrOGpBCI:wVyrXlreth0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/3pUrrOGpBCI" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/wannacry-ransomware-is-still-spreading-fast-but-kill-switch-defenses-hold-for-now/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png" type="image/png" medium="image">
+    <media:title type="html">
+     WannaCry%20ransomware%20is%20still%20spreading%20fast%2C%20but%20%26%238216%3Bkill%20switch%26%238217%3B%20defenses%20hold%20for%26nbsp%3Bnow
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2016/04/ransomware.png" medium="image"> 
+    <media:title type="html">
+     ransomware
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/69fae9a8a3933fa91e81c086b8eee14a?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     devin
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/wannacry-ransomware-is-still-spreading-fast-but-kill-switch-defenses-hold-for-now/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>App analytics company Apteligent acquired by VMware</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/1-eQVsZHDZQ/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/apteligent-acquired-by-vmware/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:35:36 +0000
+   </pubDate> 
+   <dc:creator>
+    Ryan Lawler,Ron Miller
+   </dc:creator> 
+   <category>
+    M&amp;A
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Apteligent
+   </category> 
+   <category>
+    vmware
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490688
+   </guid> 
+   <description>
+    &lt;img width="680" height="454" src="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;VMware announced today that it has acquired Apteligent, a startup that will allow it to provide more tools to customers building and optimizing mobile apps. &lt;a href="https://techcrunch.com/2017/05/15/apteligent-acquired-by-vmware/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1-eQVsZHDZQ:25Ra0jQZNsk:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1-eQVsZHDZQ:25Ra0jQZNsk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1-eQVsZHDZQ:25Ra0jQZNsk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1-eQVsZHDZQ:25Ra0jQZNsk:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1-eQVsZHDZQ:25Ra0jQZNsk:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1-eQVsZHDZQ:25Ra0jQZNsk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1-eQVsZHDZQ:25Ra0jQZNsk:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1-eQVsZHDZQ:25Ra0jQZNsk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/1-eQVsZHDZQ" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/apteligent-acquired-by-vmware/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     App%20analytics%20company%20Apteligent%20acquired%20by%26nbsp%3BVMware
+    </media:title>
+   </media:content>
+   <twitter>
+     ron_miller 
+   </twitter> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-606916257.jpg" medium="image"> 
+    <media:title type="html">
+     Woman using self tracking app outdoor.
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/3c5a6332c8200dfda8d15c74ebcc06d1?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     ryanlawler
+    </media:title> 
+   </media:content> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/apteligent-acquired-by-vmware/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Using tech to uproot systemic racism</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/aK0R00_V1IU/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/using-tech-to-uproot-systemic-racism/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:35:10 +0000
+   </pubDate> 
+   <dc:creator>
+    Jonathan Shieber
+   </dc:creator> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Diversity
+   </category> 
+   <category>
+    Events
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Brittany Packnett
+   </category> 
+   <category>
+    computing
+   </category> 
+   <category>
+    hashtag
+   </category> 
+   <category>
+    hashtag activism
+   </category> 
+   <category>
+    social media
+   </category> 
+   <category>
+    social networks
+   </category> 
+   <category>
+    Software
+   </category> 
+   <category>
+    Twitter
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1490556
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Rejecting the backlash against hashtag activism, Brittany Packnett defended the work of the armchair activists on Twitter and other social media who have brought needed attention to social justice issues. &lt;a href="https://techcrunch.com/2017/05/15/using-tech-to-uproot-systemic-racism/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aK0R00_V1IU:67oLiBA4vpY:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aK0R00_V1IU:67oLiBA4vpY:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aK0R00_V1IU:67oLiBA4vpY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aK0R00_V1IU:67oLiBA4vpY:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=aK0R00_V1IU:67oLiBA4vpY:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aK0R00_V1IU:67oLiBA4vpY:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=aK0R00_V1IU:67oLiBA4vpY:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=aK0R00_V1IU:67oLiBA4vpY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/aK0R00_V1IU" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/using-tech-to-uproot-systemic-racism/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Using%20tech%20to%20uproot%20systemic%26nbsp%3Bracism
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg" medium="image"> 
+    <media:title type="html">
+     Brittany Packnett (Campaign Zero) at TechCrunch Disrupt NY 2017
+    </media:title> 
+   </media:content> 
+   <media:content url="http://2.gravatar.com/avatar/5633afc3b452c34446afd2ae0174cf86?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     shieberj
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/screen-shot-2017-05-15-at-5-00-35-pm.png" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8530.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8538.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8533.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8544.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8525.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8515.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8517.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8518.jpg?w=150" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/tcdisrupt-ny17-8521.jpg?w=150" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/using-tech-to-uproot-systemic-racism/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Sunrise gives mental health patients AI-guarded group chat</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/7JPwdw_Zjnw/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/sunrise-health/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:34:26 +0000
+   </pubDate> 
+   <dc:creator>
+    Josh Constine
+   </dc:creator> 
+   <category>
+    Apps
+   </category> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Events
+   </category> 
+   <category>
+    Health
+   </category> 
+   <category>
+    Mobile
+   </category> 
+   <category>
+    Social
+   </category> 
+   <category>
+    Startups
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    Battlefield
+   </category> 
+   <category>
+    mental health
+   </category> 
+   <category>
+    Sunrise Health
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1489090
+   </guid> 
+   <description>
+    &lt;img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Between therapy sessions, mental health patients can feel alone. Sunrise Health is a new startup aiming to improve mental healthcare by combining the constant support of group chat, the openness afforded by anonymity, the guidance of professional therapists and the safeguard of artificial intelligence watching for abuse and emergencies. &lt;a href="https://techcrunch.com/2017/05/15/sunrise-health/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7JPwdw_Zjnw:c35bz2PAuIw:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7JPwdw_Zjnw:c35bz2PAuIw:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7JPwdw_Zjnw:c35bz2PAuIw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7JPwdw_Zjnw:c35bz2PAuIw:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=7JPwdw_Zjnw:c35bz2PAuIw:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7JPwdw_Zjnw:c35bz2PAuIw:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=7JPwdw_Zjnw:c35bz2PAuIw:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7JPwdw_Zjnw:c35bz2PAuIw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/7JPwdw_Zjnw" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/sunrise-health/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png" type="image/png" medium="image">
+    <media:title type="html">
+     Sunrise%20gives%20mental%20health%20patients%20AI-guarded%20group%26nbsp%3Bchat
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health.png" medium="image"> 
+    <media:title type="html">
+     sunrise-health
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/fd3b857e7f0024396cdbd36c4c102a5d?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     joshsc
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health-chat.png?w=680" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health-founders-ravi-shah-and-shrenik-jain.jpg?w=680" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health-trends.png?w=680" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/img_1227.jpg?w=300" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1305.jpg?w=300" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1306.jpg?w=300" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/img_1225.jpg?w=300" medium="image" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/sunrise-health-provider-analytics.png?w=680" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/sunrise-health/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Riminder uses deep learning to better match people to jobs</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/FcWNzRfJyPQ/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/riminder-uses-deep-learning-to-better-match-people-to-jobs/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:21:21 +0000
+   </pubDate> 
+   <dc:creator>
+    John Mannes
+   </dc:creator> 
+   <category>
+    Artificial Intelligence
+   </category> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Enterprise
+   </category> 
+   <category>
+    Events
+   </category> 
+   <category>
+    Startups
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    artificial intelligence
+   </category> 
+   <category>
+    Battlefield
+   </category> 
+   <category>
+    business
+   </category> 
+   <category>
+    deep learning
+   </category> 
+   <category>
+    economy
+   </category> 
+   <category>
+    LinkedIn
+   </category> 
+   <category>
+    recruitment
+   </category> 
+   <category>
+    Resume
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1489226
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;There&amp;#8217;s nothing efficient about sorting through 30,000 resumes by hand. Recruiters spend months evaluating applicants only to have great prospective candidates get lost in the pile. At TechCrunch&amp;#8217;s Startup Battlefield, French startup Riminder made the case for how its deep learning-powered platform could augment recruiters &amp;#8212; helping them better surface ideal contenders for&amp;hellip; &lt;a href="https://techcrunch.com/2017/05/15/riminder-uses-deep-learning-to-better-match-people-to-jobs/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FcWNzRfJyPQ:Gzk04QzZeFk:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FcWNzRfJyPQ:Gzk04QzZeFk:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FcWNzRfJyPQ:Gzk04QzZeFk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FcWNzRfJyPQ:Gzk04QzZeFk:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=FcWNzRfJyPQ:Gzk04QzZeFk:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FcWNzRfJyPQ:Gzk04QzZeFk:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=FcWNzRfJyPQ:Gzk04QzZeFk:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=FcWNzRfJyPQ:Gzk04QzZeFk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/FcWNzRfJyPQ" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/riminder-uses-deep-learning-to-better-match-people-to-jobs/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Riminder%20uses%20deep%20learning%20to%20better%20match%20people%20to%26nbsp%3Bjobs
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1301.jpg" medium="image"> 
+    <media:title type="html">
+     Riminder presents at Startup Battlefield at TechCrunch Disrupt NY 2017
+    </media:title> 
+   </media:content> 
+   <media:content url="http://1.gravatar.com/avatar/a457b6dcacd1964d0b23ebfe8767f7d4?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     jmannes16
+    </media:title> 
+   </media:content> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/screen-shot-2017-05-14-at-3-17-20-pm.png" medium="image" /> 
+   <feedburner:origLink>
+    https://techcrunch.com/2017/05/15/riminder-uses-deep-learning-to-better-match-people-to-jobs/?ncid=rss
+   </feedburner:origLink>
+  </item> 
+  <item> 
+   <title>Collider 3D printers can make shiny metal objects on demand</title> 
+   <link>
+    http://feedproxy.google.com/~r/Techcrunch/~3/vLU6Po_cLM0/
+   </link> 
+   <comments>
+    https://techcrunch.com/2017/05/15/collider-3d-printers-can-make-shiny-metal-objects-on-demand/#respond
+   </comments> 
+   <pubDate>
+    Mon, 15 May 2017 21:13:16 +0000
+   </pubDate> 
+   <dc:creator>
+    Lora Kolodny
+   </dc:creator> 
+   <category>
+    Disrupt NY 2017
+   </category> 
+   <category>
+    Events
+   </category> 
+   <category>
+    Hardware
+   </category> 
+   <category>
+    TC
+   </category> 
+   <category>
+    3d printing
+   </category> 
+   <category>
+    additive manufacturing
+   </category> 
+   <category>
+    Collider
+   </category> 
+   <category>
+    Orchid
+   </category> 
+   <guid isPermaLink="false">
+    http://techcrunch.com/?p=1489849
+   </guid> 
+   <description>
+    &lt;img width="680" height="453" src="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;When he worked at Shapeways just a few years ago, customers constantly asked Graham Bredemeyer if they could get their designs made out of metal by the 3D printing services firm. Think about it &amp;#8212;&nbsp;if a&nbsp;plastic Yoda is covetable,&nbsp;a titanium one is even&nbsp;better. However,&nbsp;most 3D printers could not yet handle alloys like sterling silver or stainless steel in 2014. And to this day, 3D&amp;#8230; &lt;a href="https://techcrunch.com/2017/05/15/collider-3d-printers-can-make-shiny-metal-objects-on-demand/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=vLU6Po_cLM0:XQ3pxwjMFRQ:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=vLU6Po_cLM0:XQ3pxwjMFRQ:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=vLU6Po_cLM0:XQ3pxwjMFRQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=vLU6Po_cLM0:XQ3pxwjMFRQ:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=vLU6Po_cLM0:XQ3pxwjMFRQ:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=vLU6Po_cLM0:XQ3pxwjMFRQ:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=vLU6Po_cLM0:XQ3pxwjMFRQ:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=vLU6Po_cLM0:XQ3pxwjMFRQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/vLU6Po_cLM0" height="1" width="1" alt=""/&gt;
+   </description> 
+   <wfw:commentRss>
+    https://techcrunch.com/2017/05/15/collider-3d-printers-can-make-shiny-metal-objects-on-demand/feed/
+   </wfw:commentRss> 
+   <slash:comments>
+    0
+   </slash:comments> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg?w=210&amp;h=158&amp;crop=1" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg" type="image/jpeg" medium="image">
+    <media:title type="html">
+     Collider%203D%20printers%20can%20make%20shiny%20metal%20objects%20on%26nbsp%3Bdemand
+    </media:title>
+   </media:content> 
+   <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg" /> 
+   <media:content url="http://tctechcrunch2011.files.wordpress.com/2017/05/147a1299.jpg" medium="image"> 
+    <media:title type="html">
+     Collider presents at Startup Battlefield at TechCrunch Disrupt NY 2017
+    </media:title> 
+   </media:content> 
+   <media:content url="http://0.gravatar.com/avatar/6669b82c456f152e55fac86f56e5c248?s=96&amp;d=identicon&amp;r=G" medium="image"> 
+    <media:title type="html">
+     lorakolodnytc
+    </media:title> 
+   </med

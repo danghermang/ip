@@ -1,0 +1,31 @@
+firma ce vrea un client de email propriu
+utilizatori- autentificare
+mailuri pe categorii
+client ce ordoneaza spamuri
+interfete diferite pentru browsere
+setari pentru interfata
+
+
+facem fisa de cerinte care include un element in plus. identificam actorii
+
+trebuie sa includem actorii care modeleaza partea de backend:server, admin, etc
+
+trebuie sa includem niste extensii.
+sa indentificam actiunile, nu neaparat detaliate, dar sa identificam actiunile pe care le face fiecare actor
+functionalitati suplimentare
+tratarea unor erori pot fi incluse ca extensii(ex cazul in care nu este un atasament inclus desi ar trebui sa fie)
+
+
+
+facem diagrama de clase - include atribute si metode ce ar trebui incluse si relatiile
+4 tipuri de relatii
+compozitie: folosita de ex la baza de date - toate instantele unei clase daca se gasesc in continutul altei clase
+
+
+diagrama use case corespunde unui scenariu din fisa de cerinte. intr-o singura diagrama putem include mai multe scenarii.bonus pentru iteratii, marcate printr-un chenar.
+punct bonus pentru extensii in diagrama -- sageata cu extends pe ea pentru a descrie cazul special.
+
+
+
+
+

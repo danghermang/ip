@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsoup-1.10.2">
+    <CLASSES>
+      <root url="jar://D:/Programe/Instalate/JetBrains/jsoup-1.10.2.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/FPCNews/customnews/src/main/java" />
+      <root url="file://$PROJECT_DIR$/FPCNews/customnews/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
